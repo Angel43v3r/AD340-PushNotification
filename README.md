@@ -1,8 +1,8 @@
 # Push Notification
-<imag src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/react-logo%403x.png" 
+<img src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/react-logo%403x.png" 
     alt="React Logo"
     width="200">
-<imag src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/android-icon-foreground.png" 
+<img src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/android-icon-foreground.png" 
     alt="Expo Logo"
     width="200">
 
@@ -145,7 +145,7 @@ You can then choose one of the following options:
 ## Assignment Instruction
 
 ### App Screenshots
-<imag src="![Image.png](https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/PushNotification0.png)" 
+<img src="![Image.png](https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/PushNotification0.png)" 
     alt="Home Screen"
     width="300">
 <img src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/PushNotification1.png" 
