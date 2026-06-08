@@ -168,6 +168,46 @@ To ensure notifications show up even when the app is actively running in the for
 #### Step 3: Implement Permissions and Trigger Logic
 Open `App.js` and implement the core logic inside the App component. You will need to use useEffect to request permissions and create a function to trigger the notification.
 
+### App Setup
+#### Step 1: Notification Handler Setup
+In app/_layout.tsx add this outside the component:
+```tsx
+import * as Notifications from 'expo-notifications';
+
+Notifications.setNotificationHandler({
+  handleNotification: async () => ({
+    shouldShowBanner: true,
+    shouldShowList: true,
+    shouldPlaySound: false,
+    shouldSetBadge: false,
+  }),
+});
+```
+
+#### Step 2: Update app/(tabs)/index.tsx
+Design and build the UI then create the Notification trigger function
+
+Notification Trigger Function:
+```tsx
+  const sendNotification = async () => {
+    const permission = await Notifications.getPermissionsAsync();
+
+    if (permission.status !== "granted") {
+      Alert.alert("No permission, please enable notifications first!");
+      return;
+    }
+
+    await Notifications.scheduleNotificationAsync({
+      content: {
+        title: "Push Notification",
+        body: "You successfully sent the push notification!",
+      },
+      trigger: null, // <--  to "send immediately"
+    });
+  };
+```
+
+
 ## Running Test (OPTIONAL)
 I did not implement a test on this project. This is how to setup a Vitest as the test runner.
 
