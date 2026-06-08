@@ -1,8 +1,8 @@
 # Push Notification
-<imag src="Image.png" 
+<imag src="![Image.png](https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/react-logo%403x.png)" 
     alt="React Logo"
     width="200">
-<imag src="Image.png" 
+<imag src="![Image.png](https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/android-icon-foreground.png)" 
     alt="Expo Logo"
     width="200">
 
