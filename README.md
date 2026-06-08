@@ -1,8 +1,8 @@
 # Push Notification
-<imag src="![Image.png](https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/react-logo%403x.png)" 
+<imag src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/react-logo%403x.png" 
     alt="React Logo"
     width="200">
-<imag src="![Image.png](https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/android-icon-foreground.png)" 
+<imag src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/android-icon-foreground.png" 
     alt="Expo Logo"
     width="200">
 
@@ -145,12 +145,12 @@ You can then choose one of the following options:
 ## Assignment Instruction
 
 ### App Screenshots
-<imag src="Image.png" 
+<imag src="![Image.png](https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/PushNotification0.png)" 
     alt="Home Screen"
-    width="250">
-<img src="Image.png" 
+    width="300">
+<img src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/PushNotification1.png" 
      alt="Notification" 
-     width="250">
+     width="300">
 
 You will create a single-screen application with a clean UI. The app must handle two main pieces of functionality:
 
