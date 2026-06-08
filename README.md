@@ -145,7 +145,7 @@ You can then choose one of the following options:
 ## Assignment Instruction
 
 ### App Screenshots
-<img src="![Image.png](https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/PushNotification0.png)" 
+<img src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/PushNotification0.png" 
     alt="Home Screen"
     width="300">
 <img src="https://github.com/Angel43v3r/AD340-PushNotification/blob/main/PushNotificationApp/assets/images/PushNotification1.png" 
